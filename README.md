@@ -36,7 +36,7 @@ Trabalhos que acoplam as famílias acima. Por exemplo, um modelo físico calibra
 
 | # | Projeto | Abordagem | Status | Descrição breve |
 |---|---------|-----------|--------|-----------------|
-| 01 | Projétil com resistência do ar | — | 🔜 | — |
+| 01 | Modelagem do movimento de projéteis sob a influência da resistência do ar | — | 🔜 | — |
 | 02 |  Pêndulo Simples | — | 🔜 | — |
 
 *Legenda de status:* ✅ concluído · 🚧 em desenvolvimento · 🔜 planejado
